@@ -1,0 +1,28 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-05-31 16:00:30.866403
+end_time: 2023-05-31 16:00:30.936913
+duration: 0.07051
+
+id: 1
+command: battery?
+response: b'9\r\n'
+start time: 2023-05-31 16:00:30.937588
+end_time: 2023-05-31 16:00:30.984611
+duration: 0.047023
+
+id: 2
+command: takeoff
+response: b'error'
+start time: 2023-05-31 16:00:30.984611
+end_time: 2023-05-31 16:00:31.031881
+duration: 0.04727
+
+id: 3
+command: land
+response: b'error'
+start time: 2023-05-31 16:00:36.033194
+end_time: 2023-05-31 16:00:36.138432
+duration: 0.105238

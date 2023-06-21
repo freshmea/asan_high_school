@@ -1,0 +1,10 @@
+command
+battery?
+takeoff
+delay 5
+up 30
+forward 160
+up 30
+back 100
+down 60
+land

@@ -1,0 +1,14 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-06-21 08:57:42.103482
+end_time: 2023-06-21 08:57:42.161488
+duration: 0.058006
+
+id: 1
+command: battery?
+response: b'92\r\n'
+start time: 2023-06-21 08:57:42.162494
+end_time: 2023-06-21 08:57:42.208003
+duration: 0.045509

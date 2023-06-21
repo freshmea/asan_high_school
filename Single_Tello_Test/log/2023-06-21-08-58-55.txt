@@ -1,0 +1,42 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-06-21 08:58:55.186188
+end_time: 2023-06-21 08:58:55.418239
+duration: 0.232051
+
+id: 1
+command: battery?
+response: b'92\r\n'
+start time: 2023-06-21 08:58:55.419247
+end_time: 2023-06-21 08:58:55.512758
+duration: 0.093511
+
+id: 2
+command: takeoff
+response: b'ok'
+start time: 2023-06-21 08:58:55.513623
+end_time: 2023-06-21 08:59:04.413676
+duration: 8.900053
+
+id: 3
+command: up 30
+response: b'ok'
+start time: 2023-06-21 08:59:09.415585
+end_time: 2023-06-21 08:59:11.718550
+duration: 2.302965
+
+id: 4
+command: down 60
+response: b'ok'
+start time: 2023-06-21 08:59:11.719550
+end_time: 2023-06-21 08:59:14.583911
+duration: 2.864361
+
+id: 5
+command: land
+response: b'ok'
+start time: 2023-06-21 08:59:14.586152
+end_time: 2023-06-21 08:59:15.855083
+duration: 1.268931
